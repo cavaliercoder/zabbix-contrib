@@ -1,0 +1,6 @@
+*.rpm
+*.deb
+*.tar.gz
+repomd.xml
+*.sqlite.bz2
+*.xml.gz
